@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="56dp"
+    android:viewportWidth="48"
+    android:viewportHeight="56">
+  <!-- Red Pin Teardrop Shadow / Outer Body -->
+  <path
+      android:fillColor="#E53935"
+      android:pathData="M24,2C13.5,2 5,10.5 5,21c0,13.5 17.2,32 18.2,33.1c0.4,0.4 1.1,0.4 1.5,0C25.8,53 43,34.5 43,21C43,10.5 34.5,2 24,2z"/>
+  <!-- White Inner Circle -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M24,7c-7.7,0 -14,6.3 -14,14s6.3,14 14,14 14,-6.3 14,-14S31.7,7 24,7z"/>
+  <!-- Red Car Icon inside White Circle -->
+  <path
+      android:fillColor="#E53935"
+      android:pathData="M29.5,14h-11c-0.66,0 -1.21,0.42 -1.42,1.01L15,20v6c0,0.55 0.45,1 1,1h1c0.55,0 1,-0.45 1,-1v-1h12v1c0,0.55 0.45,1 1,1h1c0.55,0 1,-0.45 1,-1v-6l-2.08,-4.99C29.71,14.42 29.16,14 29.5,14zM18.5,23c-0.83,0 -1.5,-0.67 -1.5,-1.5S17.67,20 18.5,20s1.5,0.67 1.5,1.5S19.33,23 18.5,23zM29.5,23c-0.83,0 -1.5,-0.67 -1.5,-1.5s0.67,-1.5 1.5,-1.5 1.5,0.67 1.5,1.5 -0.67,1.5 -1.5,1.5zM17,19l1.5,-3.5h11L31,19L17,19z"/>
+</vector>

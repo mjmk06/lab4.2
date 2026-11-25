@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Where’s My Car</string>
+    <string name="im_parked_here">I’m parked here</string>
+    <string name="location_permission_rationale">Location permission is needed to display your position and mark where your car is parked.</string>
+    <string name="permission_settings_rationale">Location permission was permanently denied. Please enable it in Settings to use map and location features.</string>
+    <string name="car_parked_title">Your car</string>
+    <string name="parked_location_saved">Parked location saved!</string>
+    <string name="permission_required_title">Location Permission Required</string>
+    <string name="location_services_off">Location services are turned off. Please enable GPS in Settings.</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="no_car_saved">No car location saved</string>
+    <string name="my_location">My Location</string>
+    <string name="car_location">Car Location</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

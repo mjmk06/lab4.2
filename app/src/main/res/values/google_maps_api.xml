@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Google Maps API Key (from Google Cloud Console):
+    Replace YOUR_KEY_HERE with your Google Maps API key.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+    <!-- MapTiler Key -->
+    <string name="maptiler_api_key" templateMergeStrategy="preserve" translatable="false">s2H9NLvTOpNGxfXLp5SW</string>
+</resources>
